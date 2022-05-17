@@ -1,0 +1,30 @@
+.start{
+    background-color: #30a32c7a;
+    width: 30%;
+    height: 100%;
+    font-weight: bold;
+    color:black;
+    border-radius: 40px;
+    padding: 20px;
+    
+}
+.meio{
+    background-color: #3dff47;
+    width: 90%;
+    height: 100%;
+    border-radius: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.titulo-menu{
+    font-size: 4em;
+    text-align: center;
+    margin-top: 10px;
+}

@@ -1,0 +1,29 @@
+main{
+    display: flex;
+}
+.cabeçalho{
+    background-color: rgb(38, 114, 36);
+    width: 98%;
+    height: 358px;
+    margin: 0%;
+    padding: 1%;
+    
+}
+.corpo{
+    
+}
+.texto-cabeça{
+    text-align: center;]
+    margin-top: 1000px;
+    font-family: 'Oswald', sans-serif;
+}
+.imagem-head{
+    position: absolute;
+    left: 0px;
+    top: 0px
+}
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}

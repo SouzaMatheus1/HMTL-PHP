@@ -1,0 +1,37 @@
+main{
+    display: flex;
+}
+.bg{
+    
+}
+.cabeçalho{
+    margin-top: 10px;
+    background-color: #f1bb79 ;
+    width: 1875px;
+    height: 180px;
+    border-radius: 50px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    text-align-last: right;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+.img{
+
+}
+.nav{
+    background-color: #ffc78386;
+    width: 500px;
+    height: 100%;
+    border-radius: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin: 10px auto;
+    text-align: left;
+    padding: 5%;
+}
+}
